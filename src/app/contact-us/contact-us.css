@@ -1,0 +1,9 @@
+.message-form__content-form {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.message-form__content-form button[type='submit'] {
+  align-self: flex;
+}
